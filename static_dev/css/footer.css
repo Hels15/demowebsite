@@ -1,0 +1,11 @@
+.footer-container{
+    background: rgb(36, 113, 117);
+    border-top: 3px solid rgba(0,0,0,0.2);
+    padding: 50px;
+    margin-top: 20px;
+    color: #ababab;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -10px;
+}

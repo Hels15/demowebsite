@@ -1,0 +1,26 @@
+.menu-container{
+    background: rgb(180, 65, 183);
+    padding: 12px;
+    margin-bottom: 20px;
+    position:sticky;
+    top: 0;
+    text-align:center;
+    border-bottom: 3px solid rgba(203, 22, 22, 0.2);;
+
+
+
+}
+.menu-link{
+    color:white;
+    text-decoration: none;
+    padding: 12px;
+
+    margin: 0 auto;
+
+
+}
+
+.menu-link.active{
+    background-color: #2088a2;
+    color: #393f44
+}
