@@ -5,19 +5,17 @@
     margin-bottom: 20px;
     position:sticky;
     top: 0;
-    text-align:center;
-
-
-
 }
 .menu-link{
     color:white;
     text-decoration: none;
     padding: 12px;
-
-
 }
 
+.menu-list{
+    display: flex;
+
+}
 .menu-link.active{
     background-color: #ffffff;
     color: #393f44
